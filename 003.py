@@ -8,7 +8,7 @@ class Solution(object):
 			table[v] = i
 		return result
 		
-s = ""
+s = "aaa"
 solution = Solution()
 result = solution.lengthOfLongestSubstring(s)
 print result
